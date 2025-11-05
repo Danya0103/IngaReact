@@ -1,3 +1,4 @@
+/*
 const mockProducts = [
 
     { id: 1, name: 'Ноутбук ProX', description: 'Потужний ноутбук для професіоналів.', price: 2500, details: '16GB RAM, 512GB SSD, 4K дисплей. Ідеальний для розробки та графіки.' },
@@ -326,5 +327,6 @@ root.render(<App />);
 if (window.location.pathname === '/') {
 
     window.history.replaceState(null, '', '/products');
-    
+
 }
+*/
