@@ -342,3 +342,4 @@ const container = document.getElementById('Inga');
 const root = ReactDOM.createRoot(container);
 root.render(<WindowSizeComponent />);
 */
+
